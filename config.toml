@@ -4,13 +4,8 @@ cache_url = "https://wangrongsheng.github.io/wrsArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.LG"
-title = "Machine Learning"
+category = "cs.CL"
+title = "Computation and Language"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
